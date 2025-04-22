@@ -17,6 +17,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "react-native-audio-pro": "7.0.2",
     "@expo/vector-icons": "^14.0.2",
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
@@ -43,7 +44,6 @@
     "react-native-webview": "13.12.5"
   },
   "devDependencies": {
-    "react-native-audio-pro": "7.0.2",
     "@babel/runtime": "^7.25.2",
     "@babel/core": "^7.25.2",
     "@types/jest": "^29.5.12",
